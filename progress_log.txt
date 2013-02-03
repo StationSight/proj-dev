@@ -1,4 +1,3 @@
-
  ========================================================================================
   PROGRESS LOG
  ========================================================================================
@@ -21,5 +20,5 @@
 	 - still looking for a way to MERGE a local copy of the project directory with
 	   the online SugarSync copy
  
-		 - 
+	 - 
 				
