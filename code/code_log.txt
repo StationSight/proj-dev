@@ -1,0 +1,18 @@
+
+ ========================================================================================
+  CODE LOG
+ ========================================================================================
+
+	Title:		Pac-Droid
+	
+	Abstract:	An Android clone of the classic Pac-Man game
+	
+	Developers:	Elliot Gottfried, Tony Benson, Kevin Perkins
+	
+ ========================================================================================
+ 
+ * Feb 2 - implemented a code verion naming convention
+	 - 
+ 
+ * 
+				

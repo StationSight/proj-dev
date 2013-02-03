@@ -1,0 +1,18 @@
+!SESSION 2013-02-02 13:08:44.560 -----------------------------------------------
+eclipse.buildId=I20110613-1736
+java.version=1.7.0
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86 -data C:\Users\bot_m8ker\Desktop\Pac-Droid\Code\
+
+!ENTRY org.eclipse.ui 4 4 2013-02-02 13:13:01.477
+!MESSAGE Invalid preference page path: XML Syntax
+!SESSION 2013-02-02 13:13:02.444 -----------------------------------------------
+eclipse.buildId=I20110613-1736
+java.version=1.7.0
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86 -data C:\Users\bot_m8ker\Desktop\Pac-Droid\Code\
+
+!ENTRY org.eclipse.ui 4 4 2013-02-02 13:15:15.544
+!MESSAGE Invalid preference page path: XML Syntax

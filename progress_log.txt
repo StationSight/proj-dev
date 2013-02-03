@@ -1,0 +1,25 @@
+
+ ========================================================================================
+  PROGRESS LOG
+ ========================================================================================
+
+	Title:		Pac-Droid
+	
+	Abstract:	An Android clone of the classic Pac-Man game
+	
+	Developers:	Elliot Gottfried, Tony Benson, Kevin Perkins
+	
+	StartDate:	January 2013
+	
+ ========================================================================================
+
+ * 
+ 
+
+ * Feb 2 - made modifications to the file hiearchy
+
+	 - still looking for a way to MERGE a local copy of the project directory with
+	   the online SugarSync copy
+ 
+		 - 
+				
