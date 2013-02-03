@@ -12,13 +12,19 @@
 	
  ========================================================================================
 
- * 
- 
+ * Feb 3 - researched 'github' colaboration management of 'git' repository.
+
+	 - setup an online 'git' repository with current materials.
+
+	 - configured 'git' in Linux/Windows and successfully uploaded both to online 
+	   master 
+
+
 
  * Feb 2 - made modifications to the file hiearchy
 
 	 - still looking for a way to MERGE a local copy of the project directory with
 	   the online SugarSync copy
  
-	 - 
+	 
 				
