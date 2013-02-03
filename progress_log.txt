@@ -21,6 +21,10 @@
 	 
 	 - documentation for installing and using Git for working colaboratively
 
+	 - finalize some logon info
+
+	 - 
+
 
 
  * Feb 2 - made modifications to the file hiearchy
