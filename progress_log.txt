@@ -18,6 +18,8 @@
 
 	 - configured 'git' in Linux/Windows and successfully uploaded both to online 
 	   master 
+	 
+	 - documentation for installing and using Git for working colaboratively
 
 
 
